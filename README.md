@@ -24,7 +24,7 @@ Input Layer (784 nodes)
       ↓
 Hidden Layer 1 (64 nodes) → ReLU
       ↓
-Hidden Layer 2 (10 nodes) → Leaky Sigmoid
+Hidden Layer 2 (64 nodes) → Leaky Sigmoid
       ↓
 Output Layer (10 nodes)  → Softmax
 ```
